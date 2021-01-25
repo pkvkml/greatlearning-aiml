@@ -1,0 +1,9 @@
+Please find attached LungCap dataset.
+
+Request you to execute the below mentioned steps.
+
+Import the dataset into Python
+Understand the structure of dataset
+Graphical exploration of dataset
+Descriptive statistics about the dataset
+Insights from the dataset
